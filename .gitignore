@@ -1,0 +1,23 @@
+# Gradle & Build Folders
+.gradle/
+build/
+
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Keystore files
+*.jks
+*.keystore
+
+# IntelliJ
+*.iml
+.idea/
+
+# Misc Other Files
+*.log
+*.hprof
+output.json
+local.properties
